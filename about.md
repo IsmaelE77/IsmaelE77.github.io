@@ -1,12 +1,10 @@
 ---
 layout: page
+title : نبذة عن الكاتب
 permalink: /about/
 ---
 
-# نبذة عن الكاتب
-
 سائر في طريق العلم 
-
 
 
 ### الأدوات التي استخدمها:
@@ -19,4 +17,3 @@ permalink: /about/
 
 - [Typora: Markdown Editor](https://typora.io/)
 - [XMind: Mind Map](https://www.xmind.net/)
-
