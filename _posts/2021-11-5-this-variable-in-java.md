@@ -1,6 +1,13 @@
 ---
 layout: post
 title: المتغير this في جافا
+published: true
+date: 2021-11-3
+update: 2021-11-5
+permalink: /this-variable-in-java/
+categories: [java,programing]
+tags: [java, learn-java, arabic-java]
+series: "سلسلة مفاهيم في جافا"
 ---
 
 **ما الذي يعنيه اِستخدَام مُعرِّف بسيط مثل `amount` أو `process()‎` للإشارة إلى مُتْغيِّر أو تابع؟** تعتمد الإجابة بشكل أساسي على قواعد النطاق (scope rules)، والتي تُوضِح الأماكن التي يُمكِنها الوصول إلى أيّ مُتْغيِّر أو تابع قد صَرَّح عنه البرنامج وكيفية القيام بذلك.
