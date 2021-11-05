@@ -12,10 +12,7 @@ description: ِمَا أَسْتَقْرِئُ مِن المَعارْف
 # لإستخدام صورة هويتك في GitHub ضع https://github.com/<اسم_المستخدم>.png في المتغير، مثلا لهويتي الشخصية أستخدم:
 # avatar: https://github.com/a3ammar.png
 # ولإخفاء الصورة نهائيًا احذف الرابط من المتغير
-#avatar: https://raw.githubusercontent.com/isteqra/isteqra.github.io/master/images/isteqra.png
-# السبب في استعمال خدمة صور بدل رع الصورة هنا ان  رابط الصورة محجوب عند البعض فاستعنت بخدمة حسوب لذلك بينما أجد حل لذلك
-avatar: https://suar.me/5J3ln
-
+avatar: https://raw.githubusercontent.com/isteqra/isteqra.github.io/master/images/isteqra.png
 
 #
 # المتغيرات الآتية هي خيارية، عدل عليها إذا أردت تخصيص أكثر للمدونة
