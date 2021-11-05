@@ -81,3 +81,11 @@ public class Student {
 
 مثلًا، يُستخدَم `System.out.println(this);‎` لطباعة تمثيل نصي (string representation) للكائن. بالإضافة إلى ذلك، قد تُسنِد `this` إلى مُتْغيِّر آخر ضِمْن تَعْليمَة إِسْناد (assignment statement) أو تُخزِّنه بمصفوفة. وفي العموم، تستطيع أن تَفعَل به أي شيء يُمكِنك فعله مع أي مُتْغيِّر آخر باستثناء تَعْدِيل قيمته (اِفْترِض أنه مُتْغيِّر نهائي مُعرَّف باِستخدَام المُبدِّل `final`).
 
+---
+المصدر : 
+
+* [المتغيران الخاصان this و super في جافا](https://academy.hsoub.com/programming/java/%D8%A7%D9%84%D9%85%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A7%D9%86-this-%D9%88-super-%D9%81%D9%8A-%D8%AC%D8%A7%D9%81%D8%A7-r1113/)
+
+* [الكلاس و الكائن في جافا](https://harmash.com/java/java-class-and-object/)
+
+  
