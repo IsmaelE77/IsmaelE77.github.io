@@ -4,12 +4,20 @@ title: من أنا
 permalink: /about/
 ---
 
-عرف عن نفسك، من أنت؟ وماذا تعمل؟
+# نبذة عن الكاتب
 
-### معلومات أخرى
+سائر في طريق العلم 
 
-هل لديك معلومات أخرى تريد مشاركتها؟
 
-### لمراسلتي
 
-[email@domain.com](mailto:email@domain.com)
+### الأدوات التي استخدمها:
+
+### Linux Distributed:
+
+- [Mx](mxlinux.org)
+
+### IDEs & Editors
+
+- [Typora: Markdown Editor](https://typora.io/)
+- [XMind: Mind Map](https://www.xmind.net/)
+
