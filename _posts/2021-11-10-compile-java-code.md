@@ -1,6 +1,6 @@
 ---
 layout: post
-title: عملية تجميع كود جافا وتنفيذها
+title: عملية تجميع كود جافا وتنفيذه
 published: true
 date: 2021-11-10
 permalink: /compile-java-code/
