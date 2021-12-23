@@ -1,1 +1,1 @@
-jekyll-sitemap
+gem "jekyll-sitemap"
